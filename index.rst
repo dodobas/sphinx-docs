@@ -25,6 +25,7 @@ Contents
 
    about_mapnik.rst
    Getting Started <getting_started.rst>
+   creating_first_map.rst
    Install PostGIS Database <install_postgis_database.rst>
    Load PostGIS Database with Initial Geographic Data <load_postgis_database.rst>
    Install Mapnik Library Prerequisites <install_mapnik_library_prereq.rst>
