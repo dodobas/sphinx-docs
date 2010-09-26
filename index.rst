@@ -25,6 +25,7 @@ Contents
 
    about_mapnik.rst
    mapnik_overview.rst
+   introduction_to_GIS.rst
    Getting Started <getting_started.rst>
    creating_first_map.rst
    Install PostGIS Database <install_postgis_database.rst>

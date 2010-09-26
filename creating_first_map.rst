@@ -93,7 +93,7 @@ reference system (*SRS*) definition, and assign it a name ``map``.
   give you the exact parameters for EPSG 4326.
 
   You can read more about spatial reference systems and projections in
-  `GIS introduction <index>`_
+  :doc:`introducition to GIS </introduction_to_GIS>`
 
 
 In our case data is in **EPSG 4326** spatial reference system and
