@@ -24,6 +24,7 @@ Contents
    :maxdepth: 1
 
    about_mapnik.rst
+   mapnik_overview.rst
    Getting Started <getting_started.rst>
    creating_first_map.rst
    Install PostGIS Database <install_postgis_database.rst>
