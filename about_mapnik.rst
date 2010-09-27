@@ -99,3 +99,8 @@ Future
 Large number of developers and contributors are actively developing
 *mapnik2* which will become **0.8.0**. Also, version **0.7.2** is
 scheduled to be released shortly.
+
+Why use Mapnik vs. Why you might want to look elsewhere
+=======================================================
+
+TODO

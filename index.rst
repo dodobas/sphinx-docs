@@ -22,7 +22,8 @@ Contents
 
 .. toctree::
    :maxdepth: 1
-
+   
+   mapnik_module.rst
    about_mapnik.rst
    mapnik_overview.rst
    introduction_to_GIS.rst
@@ -32,7 +33,7 @@ Contents
    Load PostGIS Database with Initial Geographic Data <load_postgis_database.rst>
    Install Mapnik Library Prerequisites <install_mapnik_library_prereq.rst>
    Install Mapnik Library <install_mapnik_library.rst>
-
+   
 ==================
 Indices and tables
 ==================
